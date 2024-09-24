@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate with other Developers<br>🤝 I’m currently learning DevOps<br>💬 Ask me about Git , Shell Scripting , C++ , HTML , CSS<br>⚡ Fun fact I make the best tea
+🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate with other Developers<br>🤝 I’m currently learning DevOps<br>💬 Ask me about AWS, Git, Shell Scripting, C, Java, HTML, CSS, Networking, Cybersecurity, MYSQL, DBMS<br>⚡ Fun fact I make the best tea
 
 
 ## 🌐 Socials:
